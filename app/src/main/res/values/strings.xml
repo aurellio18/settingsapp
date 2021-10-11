@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">aurelliof</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_search">Search</string>
+    <string name="title_settings">User</string>
+    <string name="title_activity_tes">tes</string>
+
+    <!-- Preference Titles -->
+    <string name="a">Connectare</string>
+    <string name="b">Lista de Dorinte</string>
+    <string name="c">Primeste de Notificare</string>
+    <string name="d">Limbile</string>
+    <string name="e">Valute</string>
+    <string name="f">Mod Obscur</string>
+    <string name="g">Voteaza Aplicatia</string>
+    <string name="h">Termeni de confidentialitate</string>
+    <string name="i">Despre noi</string>
+
+    <!-- Messages Preferences -->
+    <string name="title">Setari Generale</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
